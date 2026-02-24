@@ -1,4 +1,7 @@
-# build a User Configuration Manager that allows users to manage their settings such as theme, language, and notifications. You will implement functions to add, update, delete, and view user settings.
+# Project 1: User Configuration Manager
+# Part of the freeCodeCamp "Python Certification" (Python v9)
+# Description: A tool to manage user settings using dictionary CRUD operations.
+# Features: Case-insensitivity, input validation, and dynamic state display.
 
 from functools import update_wrapper
 
