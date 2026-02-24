@@ -1,5 +1,5 @@
 # Project 1: User Configuration Manager
-# Part of the freeCodeCamp "Python Certification" (Python v9)
+# Part of the freeCodeCamp "Python Certification" 
 # Description: A tool to manage user settings using dictionary CRUD operations.
 # Features: Case-insensitivity, input validation, and dynamic state display.
 
